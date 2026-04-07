@@ -1,0 +1,73 @@
+header{
+    color:white;
+    background-color:green;
+    text-align:center;
+    padding:12px;
+    font-family:cursive;
+}
+.one{
+    background-color:rgb(220, 216, 216);
+    padding:10px;
+    text-align:center;
+    font-weight:bolder ;
+    
+}
+.one a{
+    text-decoration:none;
+    margin-right:30px;
+    padding:10px;
+    color:black;
+}
+.one a:hover{
+    color:blue;
+    background-color: rgb(211, 234, 255);
+    text-decoration:underline;
+}
+.first{
+    
+    background-color:rgb(209, 236, 246);
+    margin:0px;
+    padding:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.second{
+    margin-left:100px;
+
+}
+
+table,th,td{
+    border:2px solid #aaaaaa;
+    border-collapse:collapse;
+    width:600px;
+    text-align:center;
+}
+tr:nth-child(even){
+    background-color:rgb(216, 238, 248);
+}
+
+.two{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(220, 216, 216);
+    padding:10px;
+    font-weight:bolder ;
+    background-color:rgb(209, 236, 246);
+    padding:10px;
+    width:120px;
+    margin-left:100px;
+}
+.two a{
+   
+   text-decoration: none;
+   color:darkblue;
+}
+.two a:hover{
+   color:rgb(0, 0, 0);
+   background-color: rgb(154, 233, 253);
+}
+.third{
+    margin-left:100px;
+}
+body{
+    margin:50px;
+    border:5px solid #ddd;
+}
